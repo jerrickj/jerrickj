@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jerrickj
-- 👀 I’m interested in Python!
-- 🌱 I’m currently learning Python...
-- 📫 How to reach me: jerrickmj@gmail.com
+-Hi, I’m @jerrickj
+-I’m currently learning Python...
+-How to reach me: jerrickmj@gmail.com
 
 <!---
 jerrickj/jerrickj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
